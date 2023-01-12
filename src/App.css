@@ -4,3 +4,9 @@
   justify-content: center;
   height: 100vh;
 }
+
+.content{
+  overflow: auto;
+  max-width: 900px;
+  max-height: 300px;
+}
